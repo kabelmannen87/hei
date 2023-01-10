@@ -1,0 +1,8 @@
+do
+Set wshshell = wscript.CreateObject("WScript.Shell")
+wscript.sleep 100
+wshshell.sendkeys "rumpehhull"
+wscript.sleep 100
+wshshell.sendkeys "rumpwhhull"
+wscript.sleep 100
+do loop
